@@ -102,12 +102,6 @@ When you run the script or .exe, the following will happen:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### Notes:
 - If you're planning to distribute or use the .exe, make sure the necessary dependencies (such as OpenSSL) are installed and accessible on the user's system.
 - This script and .exe are intended for signature verification in scenarios where file integrity and authenticity need to be confirmed.
